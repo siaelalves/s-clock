@@ -1,0 +1,10 @@
+c:\users\siael\documents\visual studio 2012\Projects\My-Clock\My-Clock\obj\x86\Release\My-Clock.vbproj.GenerateResource.Cache
+C:\Users\siael\documents\visual studio 2012\Projects\My-Clock\My-Clock\bin\x86\Release\S-Clock.exe.config
+C:\Users\siael\documents\visual studio 2012\Projects\My-Clock\My-Clock\bin\x86\Release\S-Clock.exe
+C:\Users\siael\documents\visual studio 2012\Projects\My-Clock\My-Clock\bin\x86\Release\S-Clock.pdb
+C:\Users\siael\documents\visual studio 2012\Projects\My-Clock\My-Clock\bin\x86\Release\S-Clock.xml
+C:\Users\siael\documents\visual studio 2012\Projects\My-Clock\My-Clock\obj\x86\Release\S_Clock.main.resources
+C:\Users\siael\documents\visual studio 2012\Projects\My-Clock\My-Clock\obj\x86\Release\S_Clock.Resources.resources
+C:\Users\siael\documents\visual studio 2012\Projects\My-Clock\My-Clock\obj\x86\Release\S-Clock.exe
+C:\Users\siael\documents\visual studio 2012\Projects\My-Clock\My-Clock\obj\x86\Release\S-Clock.xml
+C:\Users\siael\documents\visual studio 2012\Projects\My-Clock\My-Clock\obj\x86\Release\S-Clock.pdb
